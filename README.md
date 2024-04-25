@@ -1,4 +1,4 @@
-# about me 
+# About me 
 
 - 👋 Hi, I’m @Alexander14454
 - 👀 I’m interested in ... Programming and design.
@@ -7,6 +7,7 @@
 - 😄 Pronouns: ... He/him
 - ⚡ Fun fact: ... I designed my first website in my last year of high school. 
 
+<p style="text-align: center" >Hello</p>
 
 
 <!---
