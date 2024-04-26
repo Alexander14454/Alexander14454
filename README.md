@@ -4,9 +4,10 @@
 
 ## My skills ⭐⭐⭐⭐⭐
 <details>
-<summary></summary>
-  
+<summary>Hello</summary>
+
 </details>
+<details>
 
 
 ## Follow me on ⬇️
