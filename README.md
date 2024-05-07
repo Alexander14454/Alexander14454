@@ -64,5 +64,11 @@ My name is Alex and I am a programmer and graphic designer. I have been programm
 
 <h2 align="center">GitHub activity</h2>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alexander14454&bg_color=12121c&line=fcfcfc&color=fcfcfc"> 
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Alexander14454&bg_color=12121c&line=fcfcfc&color=fcfcfc"> 
 
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Alexander14454&theme=ambient_gradient&show_icons=true&hide_border=true&count_private=true&card_width=470px&bg_color=00000000"> 
+
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Alexander14454&theme=swift&hide_border=true&card_width=500px&bg_color=00000000">
+
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexander14454&theme=ambient_gradient&show_icons=true&hide_border=true&layout=compact&card_width=1012px&bg_color=00000000">
