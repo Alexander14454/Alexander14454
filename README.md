@@ -5,18 +5,18 @@
 <h2 align="center">About me </h2>
 My name is Alex and I am a programmer and graphic designer. I have been programming for years now, I started by teaching myself most of the knowlegde I have and then started to take a few college classes to expand my knowlegde further. I am currently working towards a CIS degree and hope to learn as much as a can from college whilst working on my own projects and programming/design ideas.
 
-
 ---
 
-
-
-<table align="center" >
+<table align="center">
   <tr>
     <th width="300px">Languages</th>
     <th width="300px">Tools</th>
   </tr>
   <tr>
-    <th width="300px">  
+    <th width="300px">
+      <details><summary><img src="https://img.shields.io/badge/-MarkDown-000000?style=flat-square&logo=markdown&labelColor=000000""></summary>
+        Known since: 2024 <br> Confidence: ⭐⭐⭐⭐⭐ <br> Experience: ⭐⭐⭐ <br> Knowledge: ⭐⭐⭐
+      </details>
       <details><summary><img src="https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript"></summary>
         Known since: 2022 <br> Confidence: ⭐⭐⭐ <br> Experience: ⭐⭐⭐ <br> Knowledge: ⭐⭐
       </details>
@@ -62,4 +62,7 @@ My name is Alex and I am a programmer and graphic designer. I have been programm
   </tr>
 </table>
 
-<h2>GitHub activity</h2>
+<h2 align="center">GitHub activity</h2>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alexander14454&bg_color=12121c&line=fcfcfc&color=fcfcfc"> 
+
