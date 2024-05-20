@@ -72,3 +72,6 @@ My name is Alex and I am a programmer and graphic designer. I have been programm
 
 &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexander14454&theme=ambient_gradient&show_icons=true&hide_border=true&layout=compact&card_width=1012px&bg_color=00000000">
+
+<h2 align="center">Follower me on ⬇️</h2>
+
