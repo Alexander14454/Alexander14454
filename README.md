@@ -75,3 +75,8 @@ My name is Alex and I am a programmer and graphic designer. I have been programm
 
 <h2 align="center">Follower me on ⬇️</h2>
 
+<p align="center">
+  <a href="https://discord.com/channels/@me/694823364459757610"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://www.facebook.com/alex.croteau.3701"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
+  <a href="https://www.instagram.com/alexandercroteau/?hl=en"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+</p>
