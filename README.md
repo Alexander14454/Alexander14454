@@ -3,8 +3,6 @@
 <img src="https://raw.githubusercontent.com/Alexander14454/Alexander14454/master/github banner 3.png">
 
 <h2 align="center">About me </h2>
-My name is Alex and I am a programmer and graphic designer. I have been programming for years now, I started by teaching myself most of the knowlegde I have and then started to take a few college classes to expand my knowlegde further. I am currently working towards a CIS degree and hope to learn as much as a can from college whilst working on my own projects and programming/design ideas.
-
 ---
 
 <table align="center">
