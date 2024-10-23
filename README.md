@@ -71,7 +71,7 @@
 &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexander14454&theme=ambient_gradient&show_icons=true&hide_border=true&layout=compact&card_width=1012px&bg_color=00000000">
 
-<h2 align="center">Follower me on ⬇️</h2>
+<h2 align="center">Follow me on ⬇️</h2>
 
 <p align="center">
   <a href="https://discord.com/channels/@me/694823364459757610"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
