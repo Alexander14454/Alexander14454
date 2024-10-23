@@ -3,7 +3,6 @@
 <img src="https://raw.githubusercontent.com/Alexander14454/Alexander14454/master/github banner 3.png">
 
 <h2 align="center">About me </h2>
----
 
 <table align="center">
   <tr>
